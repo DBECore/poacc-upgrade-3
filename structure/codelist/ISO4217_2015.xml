@@ -5,6 +5,34 @@
     <Version>2018-01-01</Version>
     <Agency>ISO</Agency>
     <Code>
+        <Id>EUR</Id>
+        <Name>Euro</Name>
+    </Code>    
+    <Code>
+        <Id>USD</Id>
+        <Name>US Dollar</Name>
+    </Code>    
+    <Code>
+        <Id>GBP</Id>
+        <Name>Pound Sterling</Name>
+    </Code>    
+    <Code>
+        <Id>SEK</Id>
+        <Name>Swedish Krona</Name>
+    </Code>    
+    <Code>
+        <Id>NOK</Id>
+        <Name>Norwegian Krone</Name>
+    </Code>    
+    <Code>
+        <Id>CNY</Id>
+        <Name>Yuan Renminbi</Name>
+    </Code>    
+    <Code>
+        <Id>JPY</Id>
+        <Name>Yen</Name>
+    </Code>    
+    <Code>
         <Id>AED</Id>
         <Name>UAE Dirham</Name>
     </Code>
@@ -137,10 +165,6 @@
         <Name>Chilean Peso</Name>
     </Code>
     <Code>
-        <Id>CNY</Id>
-        <Name>Yuan Renminbi</Name>
-    </Code>
-    <Code>
         <Id>COP</Id>
         <Name>Colombian Peso</Name>
     </Code>
@@ -197,20 +221,12 @@
         <Name>Ethiopian Birr</Name>
     </Code>
     <Code>
-        <Id>EUR</Id>
-        <Name>Euro</Name>
-    </Code>
-    <Code>
         <Id>FJD</Id>
         <Name>Fiji Dollar</Name>
     </Code>
     <Code>
         <Id>FKP</Id>
         <Name>Falkland Islands Pound</Name>
-    </Code>
-    <Code>
-        <Id>GBP</Id>
-        <Name>Pound Sterling</Name>
     </Code>
     <Code>
         <Id>GEL</Id>
@@ -291,10 +307,6 @@
     <Code>
         <Id>JOD</Id>
         <Name>Jordanian Dinar</Name>
-    </Code>
-    <Code>
-        <Id>JPY</Id>
-        <Name>Yen</Name>
     </Code>
     <Code>
         <Id>KES</Id>
@@ -429,10 +441,6 @@
         <Name>Cordoba Oro</Name>
     </Code>
     <Code>
-        <Id>NOK</Id>
-        <Name>Norwegian Krone</Name>
-    </Code>
-    <Code>
         <Id>NPR</Id>
         <Name>Nepalese Rupee</Name>
     </Code>
@@ -507,10 +515,6 @@
     <Code>
         <Id>SDG</Id>
         <Name>Sudanese Pound</Name>
-    </Code>
-    <Code>
-        <Id>SEK</Id>
-        <Name>Swedish Krona</Name>
     </Code>
     <Code>
         <Id>SGD</Id>
@@ -595,10 +599,6 @@
     <Code>
         <Id>UGX</Id>
         <Name>Uganda Shilling</Name>
-    </Code>
-    <Code>
-        <Id>USD</Id>
-        <Name>US Dollar</Name>
     </Code>
     <Code>
         <Id>USN</Id>
