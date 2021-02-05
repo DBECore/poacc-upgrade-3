@@ -5,7 +5,51 @@
     <Identifier>ISO3166</Identifier>
     <Version>2013</Version>
     <Agency>ISO</Agency>
-
+	
+    <Code>
+        <Id>FI</Id>
+        <Name>Finland</Name>
+    </Code>
+    <Code>
+        <Id>DE</Id>
+        <Name>Germany</Name>
+    </Code>
+    <Code>
+        <Id>RU</Id>
+        <Name>Russian Federation</Name>
+    </Code>	
+    <Code>
+        <Id>SE</Id>
+        <Name>Sweden</Name>
+    </Code>
+    <Code>
+        <Id>NL</Id>
+        <Name>Netherlands</Name>
+    </Code>
+    <Code>
+        <Id>CN</Id>
+        <Name>China</Name>
+    </Code>
+    <Code>
+        <Id>US</Id>
+        <Name>United States of America</Name>
+    </Code>
+    <Code>
+        <Id>GB</Id>
+        <Name>United Kingdom of Great Britain and Northern Ireland</Name>
+    </Code>	
+    <Code>
+        <Id>FR</Id>
+        <Name>France</Name>
+    </Code>	
+    <Code>
+        <Id>EE</Id>
+        <Name>Estonia</Name>
+    </Code>
+    <Code>
+        <Id>NO</Id>
+        <Name>Norway</Name>
+    </Code>	
     <Code>
         <Id>AD</Id>
         <Name>Andorra</Name>
@@ -195,10 +239,6 @@
         <Name>Cameroon</Name>
     </Code>
     <Code>
-        <Id>CN</Id>
-        <Name>China</Name>
-    </Code>
-    <Code>
         <Id>CO</Id>
         <Name>Colombia</Name>
     </Code>
@@ -231,10 +271,6 @@
         <Name>Czechia</Name>
     </Code>
     <Code>
-        <Id>DE</Id>
-        <Name>Germany</Name>
-    </Code>
-    <Code>
         <Id>DJ</Id>
         <Name>Djibouti</Name>
     </Code>
@@ -259,10 +295,6 @@
         <Name>Ecuador</Name>
     </Code>
     <Code>
-        <Id>EE</Id>
-        <Name>Estonia</Name>
-    </Code>
-    <Code>
         <Id>EG</Id>
         <Name>Egypt</Name>
     </Code>
@@ -283,10 +315,6 @@
         <Name>Ethiopia</Name>
     </Code>
     <Code>
-        <Id>FI</Id>
-        <Name>Finland</Name>
-    </Code>
-    <Code>
         <Id>FJ</Id>
         <Name>Fiji</Name>
     </Code>
@@ -303,16 +331,8 @@
         <Name>Faroe Islands</Name>
     </Code>
     <Code>
-        <Id>FR</Id>
-        <Name>France</Name>
-    </Code>
-    <Code>
         <Id>GA</Id>
         <Name>Gabon</Name>
-    </Code>
-    <Code>
-        <Id>GB</Id>
-        <Name>United Kingdom of Great Britain and Northern Ireland</Name>
     </Code>
     <Code>
         <Id>GD</Id>
@@ -667,14 +687,6 @@
         <Name>Nicaragua</Name>
     </Code>
     <Code>
-        <Id>NL</Id>
-        <Name>Netherlands</Name>
-    </Code>
-    <Code>
-        <Id>NO</Id>
-        <Name>Norway</Name>
-    </Code>
-    <Code>
         <Id>NP</Id>
         <Name>Nepal</Name>
     </Code>
@@ -767,10 +779,6 @@
         <Name>Serbia</Name>
     </Code>
     <Code>
-        <Id>RU</Id>
-        <Name>Russian Federation</Name>
-    </Code>
-    <Code>
         <Id>RW</Id>
         <Name>Rwanda</Name>
     </Code>
@@ -789,10 +797,6 @@
     <Code>
         <Id>SD</Id>
         <Name>Sudan</Name>
-    </Code>
-    <Code>
-        <Id>SE</Id>
-        <Name>Sweden</Name>
     </Code>
     <Code>
         <Id>SG</Id>
@@ -933,10 +937,6 @@
     <Code>
         <Id>UM</Id>
         <Name>United States Minor Outlying Islands</Name>
-    </Code>
-    <Code>
-        <Id>US</Id>
-        <Name>United States of America</Name>
     </Code>
     <Code>
         <Id>UY</Id>
