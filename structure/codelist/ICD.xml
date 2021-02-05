@@ -4,6 +4,20 @@
     <Identifier>ICD</Identifier>
     <Agency>The International Organization for Standardization (ISO)</Agency>
     <Code>
+        <Id>0037</Id>
+        <Name>LY-tunnus</Name>
+        <Description>It is possible to add 0-4 characters set to the code for more detailed use of
+            one organization. Characters are digits or capital letter. Issuing agency: National
+            Board of Taxes, (Verohallitus), Haapanimenk 7-9B, SF-00530 Helsinki, FINLAND Tel: 010
+            3580 39621, Fax: 010 3580 39624247</Description>
+    </Code>	
+    </Code>
+	<Code>
+        <Id>0209</Id>
+        <Name>GS1 identification keys</Name>
+        <Description>GS1 identification keys and key qualifiers may be used by an information system to refer unambiguously to an entity such as a trade item, logistics unit, physical location, document, or service relationship.</Description>
+    </Code>	
+    <Code>
         <Id>0002</Id>
         <Name>System Information et Repertoire des Entreprise et des Etablissements: SIRENE</Name>
         <Description>The Sirene number is used in France mainly for the official registration in the
@@ -281,14 +295,6 @@
             Level 3: teletrust(0036), Level 4 and higher: (defined by TeleTrust conventions) Issuing
             agency: TeleTrust Deutschland e.V. c/o GMD, Dolivostrasse 15, D-6100 Darmstadt, GERMANY,
             Tel: 49 6151 869 700, Fax: 49 6151 869 785</Description>
-    </Code>
-    <Code>
-        <Id>0037</Id>
-        <Name>LY-tunnus</Name>
-        <Description>It is possible to add 0-4 characters set to the code for more detailed use of
-            one organization. Characters are digits or capital letter. Issuing agency: National
-            Board of Taxes, (Verohallitus), Haapanimenk 7-9B, SF-00530 Helsinki, FINLAND Tel: 010
-            3580 39621, Fax: 010 3580 39624247</Description>
     </Code>
     <Code>
         <Id>0038</Id>
@@ -1672,10 +1678,4 @@
         <Id>0208</Id>
         <Name>Numero d'entreprise / ondernemingsnummer / Unternehmensnummer</Name>
         <Description>Identification number attributed by the BCE/KBO/ZDU (the Belgian register) to identify entities and establishment units operating in Belgium.</Description>
-    </Code>
-	<Code>
-        <Id>0209</Id>
-        <Name>GS1 identification keys</Name>
-        <Description>GS1 identification keys and key qualifiers may be used by an information system to refer unambiguously to an entity such as a trade item, logistics unit, physical location, document, or service relationship.</Description>
-    </Code>
 </CodeList>
