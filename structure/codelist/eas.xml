@@ -5,6 +5,14 @@
     <Agency>CEF</Agency>
 
     <Code>
+        <Id>0037</Id>
+        <Name>LY-tunnus</Name>
+    </Code>	
+    <Code>
+        <Id>0209</Id>
+        <Name>GS1 identification keys</Name>
+    </Code>	
+    <Code>
         <Id>0002</Id>
         <Name>System Information et Repertoire des Entreprise et des Etablissements: SIRENE</Name>
     </Code>
@@ -15,10 +23,6 @@
     <Code>
         <Id>0009</Id>
         <Name>SIRET-CODE</Name>
-    </Code>
-    <Code>
-        <Id>0037</Id>
-        <Name>LY-tunnus</Name>
     </Code>
     <Code>
         <Id>0060</Id>
@@ -118,10 +122,6 @@
     <Code>
         <Id>0208</Id>
         <Name>Numero d'entreprise / ondernemingsnummer / Unternehmensnummer</Name>
-    </Code>
-    <Code>
-        <Id>0209</Id>
-        <Name>GS1 identification keys</Name>
     </Code>
     <Code>
         <Id>9901</Id>
