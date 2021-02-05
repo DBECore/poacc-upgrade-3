@@ -8,6 +8,12 @@
     <Subset>OpenPEPPOL</Subset>
 
     <Code>
+        <Id>S</Id>
+        <Name>Standard rate</Name>
+        <Description>Code specifying the standard rate.</Description>
+    </Code>    
+    
+    <Code>
         <Id>AE</Id>
         <Name>Vat Reverse Charge</Name>
         <Description>Code specifying that the standard VAT rate is levied from the invoicee.</Description>
@@ -17,12 +23,6 @@
         <Id>E</Id>
         <Name>Exempt from Tax</Name>
         <Description>Code specifying that taxes are not applicable.</Description>
-    </Code>
-
-    <Code>
-        <Id>S</Id>
-        <Name>Standard rate</Name>
-        <Description>Code specifying the standard rate.</Description>
     </Code>
 
     <Code>
