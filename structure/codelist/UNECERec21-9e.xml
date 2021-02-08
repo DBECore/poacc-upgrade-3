@@ -7,6 +7,36 @@
     <Agency>UN/ECE</Agency>
 
     <Code>
+        <Id>OB</Id>
+        <Name>Pallet, CHEP 80 cm x 120 cm</Name>
+        <Description>Commonwealth Handling Equipment Pool (CHEP) standard pallet of dimensions 80
+            centimeters x 120 centimeters.</Description>
+    </Code>
+    <Code>
+        <Id>OC</Id>
+        <Name>Pallet, CHEP 100 cm x 120 cm</Name>
+        <Description>Commonwealth Handling Equipment Pool (CHEP) standard pallet of dimensions 100
+            centimeters x 120 centimeters.</Description>
+    </Code>    
+    <Code>
+        <Id>OA</Id>
+        <Name>Pallet, CHEP 40 cm x 60 cm</Name>
+        <Description>Commonwealth Handling Equipment Pool (CHEP) standard pallet of dimensions 40
+            centimeters x 60 centimeters.</Description>
+    </Code>
+    <Code>
+        <Id>OD</Id>
+        <Name>Pallet, AS 4068-1993</Name>
+        <Description>Australian standard pallet of dimensions 115.5 centimeters x 116.5
+            centimeters.</Description>
+    </Code>
+    <Code>
+        <Id>OE</Id>
+        <Name>Pallet, ISO T11</Name>
+        <Description>ISO standard pallet of dimensions 110 centimeters x 110 centimeters, prevalent
+            in Asia - Pacific region.</Description>
+    </Code>    
+    <Code>
         <Id>1A</Id>
         <Name>Drum, steel</Name>
     </Code>
@@ -856,36 +886,6 @@
     <Code>
         <Id>NV</Id>
         <Name>Net, tube, textile</Name>
-    </Code>
-    <Code>
-        <Id>OA</Id>
-        <Name>Pallet, CHEP 40 cm x 60 cm</Name>
-        <Description>Commonwealth Handling Equipment Pool (CHEP) standard pallet of dimensions 40
-            centimeters x 60 centimeters.</Description>
-    </Code>
-    <Code>
-        <Id>OB</Id>
-        <Name>Pallet, CHEP 80 cm x 120 cm</Name>
-        <Description>Commonwealth Handling Equipment Pool (CHEP) standard pallet of dimensions 80
-            centimeters x 120 centimeters.</Description>
-    </Code>
-    <Code>
-        <Id>OC</Id>
-        <Name>Pallet, CHEP 100 cm x 120 cm</Name>
-        <Description>Commonwealth Handling Equipment Pool (CHEP) standard pallet of dimensions 100
-            centimeters x 120 centimeters.</Description>
-    </Code>
-    <Code>
-        <Id>OD</Id>
-        <Name>Pallet, AS 4068-1993</Name>
-        <Description>Australian standard pallet of dimensions 115.5 centimeters x 116.5
-            centimeters.</Description>
-    </Code>
-    <Code>
-        <Id>OE</Id>
-        <Name>Pallet, ISO T11</Name>
-        <Description>ISO standard pallet of dimensions 110 centimeters x 110 centimeters, prevalent
-            in Asia - Pacific region.</Description>
     </Code>
     <Code>
         <Id>OF</Id>
