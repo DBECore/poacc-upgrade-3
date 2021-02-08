@@ -6,6 +6,74 @@
     <Version>Revision 11e</Version>
     <Agency>UN/ECE</Agency>
 
+
+    <Code>
+        <Id>H87</Id>
+        <Name>piece</Name>
+        <Description>A unit of count defining the number of pieces (piece: a single item, article or
+            exemplar).</Description>
+    </Code> 
+    <Code>
+        <Id>GRM</Id>
+        <Name>gram</Name>
+        <Description/>
+    </Code>    
+    <Code>
+        <Id>KGM</Id>
+        <Name>kilogram</Name>
+        <Description>A unit of mass equal to one thousand grams.</Description>
+    </Code>    
+    <Code>
+        <Id>TNE</Id>
+        <Name>tonne (metric ton)</Name>
+        <Description>Synonym: metric ton</Description>
+    </Code>    
+    <Code>
+        <Id>LTR</Id>
+        <Name>litre</Name>
+        <Description/>
+    </Code>        
+    <Code>
+        <Id>DLT</Id>
+        <Name>decilitre</Name>
+        <Description/>
+    </Code>    
+    <Code>
+        <Id>MLT</Id>
+        <Name>millilitre</Name>
+        <Description/>
+    </Code>      
+    <Code>
+        <Id>KMT</Id>
+        <Name>kilometre</Name>
+        <Description/>
+    </Code>    
+    <Code>
+        <Id>MTR</Id>
+        <Name>metre</Name>
+        <Description/>
+    </Code>    
+    <Code>
+        <Id>CMT</Id>
+        <Name>centimetre</Name>
+        <Description/>
+    </Code>    
+    <Code>
+        <Id>MMT</Id>
+        <Name>millimetre</Name>
+        <Description/>
+    </Code>    
+    <Code>
+        <Id>MTK</Id>
+        <Name>square metre</Name>
+        <Description/>
+    </Code>    
+    <Code>
+        <Id>MTQ</Id>
+        <Name>cubic metre</Name>
+        <Description>Synonym: metre cubed</Description>
+    </Code>    
+
     <Code>
         <Id>10</Id>
         <Name>group</Name>
@@ -1936,11 +2004,6 @@
         <Description/>
     </Code>
     <Code>
-        <Id>CMT</Id>
-        <Name>centimetre</Name>
-        <Description/>
-    </Code>
-    <Code>
         <Id>CNP</Id>
         <Name>hundred pack</Name>
         <Description>A unit of count defining the number of hundred-packs (hundred-pack: set of one
@@ -2402,11 +2465,6 @@
     <Code>
         <Id>DJ</Id>
         <Name>decagram</Name>
-        <Description/>
-    </Code>
-    <Code>
-        <Id>DLT</Id>
-        <Name>decilitre</Name>
         <Description/>
     </Code>
     <Code>
@@ -4179,11 +4237,6 @@
         <Description/>
     </Code>
     <Code>
-        <Id>GRM</Id>
-        <Name>gram</Name>
-        <Description/>
-    </Code>
-    <Code>
         <Id>GRN</Id>
         <Name>grain</Name>
         <Description/>
@@ -4618,12 +4671,6 @@
         <Id>H85</Id>
         <Name>reciprocal week</Name>
         <Description/>
-    </Code>
-    <Code>
-        <Id>H87</Id>
-        <Name>piece</Name>
-        <Description>A unit of count defining the number of pieces (piece: a single item, article or
-            exemplar).</Description>
     </Code>
     <Code>
         <Id>H88</Id>
@@ -5765,11 +5812,6 @@
         <Description>Refer ISO 80000-5 (Quantities and units — Part 5: Thermodynamics)</Description>
     </Code>
     <Code>
-        <Id>KGM</Id>
-        <Name>kilogram</Name>
-        <Description>A unit of mass equal to one thousand grams.</Description>
-    </Code>
-    <Code>
         <Id>KGS</Id>
         <Name>kilogram per second</Name>
         <Description/>
@@ -5847,11 +5889,6 @@
         <Name>kilogram per cubic metre</Name>
         <Description>A unit of weight expressed in kilograms of a substance that fills a volume of
             one cubic metre.</Description>
-    </Code>
-    <Code>
-        <Id>KMT</Id>
-        <Name>kilometre</Name>
-        <Description/>
     </Code>
     <Code>
         <Id>KNI</Id>
@@ -6503,11 +6540,6 @@
         <Description>Synonym: gross ton (2240 lb)</Description>
     </Code>
     <Code>
-        <Id>LTR</Id>
-        <Name>litre</Name>
-        <Description/>
-    </Code>
-    <Code>
         <Id>LUB</Id>
         <Name>metric ton, lubricating oil</Name>
         <Description>A unit of mass defining the number of metric tons of lubricating
@@ -7152,11 +7184,6 @@
         <Description>Synonym: billion (US)</Description>
     </Code>
     <Code>
-        <Id>MLT</Id>
-        <Name>millilitre</Name>
-        <Description/>
-    </Code>
-    <Code>
         <Id>MMK</Id>
         <Name>square millimetre</Name>
         <Description/>
@@ -7164,11 +7191,6 @@
     <Code>
         <Id>MMQ</Id>
         <Name>cubic millimetre</Name>
-        <Description/>
-    </Code>
-    <Code>
-        <Id>MMT</Id>
-        <Name>millimetre</Name>
         <Description/>
     </Code>
     <Code>
@@ -7200,21 +7222,6 @@
     <Code>
         <Id>MSK</Id>
         <Name>metre per second squared</Name>
-        <Description/>
-    </Code>
-    <Code>
-        <Id>MTK</Id>
-        <Name>square metre</Name>
-        <Description/>
-    </Code>
-    <Code>
-        <Id>MTQ</Id>
-        <Name>cubic metre</Name>
-        <Description>Synonym: metre cubed</Description>
-    </Code>
-    <Code>
-        <Id>MTR</Id>
-        <Name>metre</Name>
         <Description/>
     </Code>
     <Code>
@@ -9026,11 +9033,6 @@
         <Name>kilogram of imported meat, less offal</Name>
         <Description>A unit of mass equal to one thousand grams of imported meat, disregarding less
             valuable by-products such as the entrails.</Description>
-    </Code>
-    <Code>
-        <Id>TNE</Id>
-        <Name>tonne (metric ton)</Name>
-        <Description>Synonym: metric ton</Description>
     </Code>
     <Code>
         <Id>TP</Id>
