@@ -10,7 +10,6 @@
             one organization. Characters are digits or capital letter. Issuing agency: National
             Board of Taxes, (Verohallitus), Haapanimenk 7-9B, SF-00530 Helsinki, FINLAND Tel: 010
             3580 39621, Fax: 010 3580 39624247</Description>
-    </Code>	
     </Code>
 	<Code>
         <Id>0209</Id>
@@ -1678,4 +1677,5 @@
         <Id>0208</Id>
         <Name>Numero d'entreprise / ondernemingsnummer / Unternehmensnummer</Name>
         <Description>Identification number attributed by the BCE/KBO/ZDU (the Belgian register) to identify entities and establishment units operating in Belgium.</Description>
+    </Code>
 </CodeList>
